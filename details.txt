@@ -1,0 +1,11 @@
+Soccer 9662 0.8
+
+Golf 9440 0.85
+
+Baseball 9540 0.55
+
+BMX 9789 0.6
+
+Skiing 9778 0.7
+
+Rowing 9894 0.45
